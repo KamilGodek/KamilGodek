@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamil Godek
+- 👋 Hi, I’m @Kamil Godek  
 - 👀 I'm interested in programming, electronics, gym, calisthenics and traveling.
 - 🌱 I am currently learning machine learning in C++/C and python.
 - 💞️ I will cooperate on .. I am open to interesting proposals and new challenges.
