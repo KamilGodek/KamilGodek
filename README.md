@@ -3,7 +3,7 @@
 I am an **electronics engineer** with a strong foundation in **programming** and a keen interest in exploring the intersection of **machine learning** and **embedded systems**. My expertise lies in leveraging **C++** and **Python** to build scalable, optimized solutions for both software and hardware applications. I am particularly focused on **algorithm optimization** and **machine learning integration**.
 
 ## 🔧 What I Bring to the Table
-- **C++/Python Programming**: With a focus on efficiency, performance, and scalability.
+- **C++/C/ Python Programming**: With a focus on efficiency, performance, and scalability.
 - **Machine Learning**: Expertise in deep learning, particularly object detection and tracking with frameworks like **YOLO**, **DeepSORT**, and **Re-Identification models**.
 - **Electronics Engineering**: Extensive experience in designing and optimizing **embedded systems** and **IoT solutions**.
 
