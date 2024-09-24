@@ -19,7 +19,7 @@ Beyond programming and electronics, I am passionate about:
 ## 💼 Open to New Opportunities
 I am always looking for exciting challenges in the areas of **machine learning**, **algorithm optimization**, and **electronics**. Whether it's a project that involves creating innovative solutions or collaborating on advanced AI models, I am ready to contribute.
 
-## 📫 How to Connect
+## 📫 How to Connect 
 - **[LinkedIn: Kamil Godek](https://www.linkedin.com/in/kamil-godek/)**
 
 <!---
