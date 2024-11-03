@@ -17,7 +17,7 @@ Beyond programming and electronics, I am passionate about:
 - **Fitness**: Active in **calisthenics** and **strength training** to keep my body as sharp as my mind.
 - **Traveling**: Exploring different cultures and gaining new insights.
 
-## 💼 Open to New Opportunities
+##  💼 Open to New Opportunities
 I am always looking for exciting challenges in the areas of **machine learning**, **algorithm optimization**, and **electronics**. Whether it's a project that involves creating innovative solutions or collaborating on advanced AI models, I am ready to contribute.
 
 ## 📫 How to Connect 
