@@ -11,7 +11,7 @@
 ## 🌱 Currently Focused On
 I am constantly learning and advancing in the field of **machine learning**, particularly in its applications in **real-time systems** and **electronics**. My current focus includes working on **person tracking** and **re-identification** using multiple neural network architectures, and optimizing these models for better performance in **embedded environments**.
 
-## 👀  My Broader Interests
+## 👀 My Broader Interests
 Beyond programming and electronics, I am passionate about:
 
 - **Fitness**: Active in **calisthenics** and **strength training** to keep my body as sharp as my mind.
