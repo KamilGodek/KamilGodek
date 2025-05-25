@@ -1,4 +1,4 @@
-#👋 Welcome to My GitHub Profile – I'm Kamil Godek
+ #👋 Welcome to My GitHub Profile – I'm Kamil Godek
 
  I am an **electronics engineer** with a strong foundation in **programming** and a keen interest in exploring the intersection of **machine learning** and **embedded systems**. My expertise lies in leveraging **C++** and **Python** to build scalable, optimized solutions for both software and hardware applications. I am particularly focused on **algorithm optimization** and **machine learning integration**.
 
