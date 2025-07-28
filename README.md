@@ -7,7 +7,6 @@ I am an **electronics engineer** with a strong foundation in **programming** and
 - **Machine Learning**: Expertise in deep learning, particularly object detection and tracking with frameworks like **YOLO**, **DeepSORT**, and **Re-Identification models**.
 - **Electronics Engineering**: Extensive experience in designing and optimizing **embedded systems** and **IoT solutions**.
  
-
 ## 🌱 Currently Focused On
 I am constantly learning and advancing in the field of **machine learning**, particularly in its applications in **real-time systems** and **electronics**. My current focus includes working on **person tracking** and **re-identification** using multiple neural network architectures, and optimizing these models for better performance in **embedded environments**.
 
